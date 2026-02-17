@@ -13,6 +13,7 @@
 - 🌱 Passionate about continuous learning — I believe every day is an opportunity to grow.
 - 🚀 Open to opportunities that allow me to deepen my knowledge in Software Development and Continuous Integration throughout the Software Lifecycle.
 - ☁️ Enthusiast of Software Development, DevOps, and Cloud Technologies.
+- 🤖 Learning and applying the **Machine Learning workflow** in academic projects (data preparation, training, evaluation) and exploring **GenAI tools** (prompting/embeddings) for smarter features.
 
 <!--Languages and Tools Section-->  
 <!--Header Name-->
